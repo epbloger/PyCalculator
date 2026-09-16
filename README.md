@@ -1,7 +1,6 @@
 # PyCalculator
 
 The simplest calculator in Python.
-
 Welcome to the simplest calculator in Python.
 The calculator can perform basic arithmetic operations: 
 "+" - Addition 
