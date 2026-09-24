@@ -1,23 +1,24 @@
-# PyCalculator
+# 🧮 PyCalculator
 
-The simplest calculator in Python.
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+
+> **The simplest calculator in Python.**
 
 Welcome to the simplest calculator in Python.
 
-The calculator can perform basic arithmetic operations: 
+---
 
-"+" - Addition 
+## ✨ What can it do?
 
-"-" - Subtraction
+The calculator can perform basic arithmetic operations:
 
-"*" - Multiplication
-
-"/" - Regular division
-
-"//" - Integer division
-
-"**" - Exponentiation
-
-"%" - Finding the remainder of division
-
-The calculator was developed by Kirill Matveev specifically for the certification project at “Code of the Future”.
+| Operator | Operation |
+|---|---|
+| `+` | Addition |
+| `-` | Subtraction |
+| `*` | Multiplication |
+| `/` | Regular division |
+| `//` | Integer division |
+| `**` | Exponentiation |
+| `%` | Finding the remainder of division |
